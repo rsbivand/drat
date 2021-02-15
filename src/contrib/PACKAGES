@@ -1,0 +1,9 @@
+Package: spatstat
+Version: 2.0-0
+Depends: R (>= 3.5.0), spatstat.data (>= 1.4-2), spatstat.geom (>=
+        1.65-0), spatstat.core (>= 1.65-0), spatstat.linnet (>=
+        1.65-0), utils
+Imports: spatstat.utils (>= 1.20-0)
+License: GPL (>= 2)
+MD5sum: 8b6ef6fb7fd36d16536cea73b069f649
+NeedsCompilation: yes
